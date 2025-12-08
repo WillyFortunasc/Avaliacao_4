@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Tarefas com Prazo - Django
 
 Atividade desenvolvida com Django + Bootstrap 5  
