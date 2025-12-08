@@ -10,7 +10,10 @@ Crie um website django usando esse exemplo como base <https://github.com/claulis
 
 # Observação:
 
-Pasta em que realizei a tarefa foi ``` tarefas2 ```
+Pasta em que realizei a avaliação foi ``` tarefas2 ```
 
 # Prints do Funcionamento
 
+<img width="1919" height="966" alt="Captura de tela 2025-12-08 123124" src="https://github.com/user-attachments/assets/104220b2-16e4-4932-b60f-a336e3e03934" />
+
+<img width="1917" height="966" alt="Captura de tela 2025-12-08 123153" src="https://github.com/user-attachments/assets/8a3bcee7-2263-490f-9bf5-199b519bb712" />
