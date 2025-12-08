@@ -8,7 +8,7 @@ Crie um website django usando esse exemplo como base <https://github.com/claulis
 
 - Coloque o codigo em um repositorio, tire print para ver o funcionamento, e coloque as evidências em um readme.
 
-# OBS 
+# Observação:
 
 Pasta em que realizei a tarefa foi ``` tarefas2 ```
 
