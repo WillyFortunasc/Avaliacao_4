@@ -1,6 +1,6 @@
 # Avaliação 04 
 
-Crie um website django usando esse exemplo como base <Py/DJ/Django/django_mysql.mdatmain·claulis/Py>
+Crie um website django usando esse exemplo como base <https://github.com/claulis/Py/blob/main/DJ/Django/exemplo2.md>
 
 - Modifique para que as tarefas sejam listadas, com um checkbox definindo se está ativa ou concluida(check marcado).
 
